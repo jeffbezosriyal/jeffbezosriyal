@@ -110,7 +110,7 @@ Structure isn’t limitation; it’s my process.
 
 ## 📫 Reach Me  
 
-📧 **jeffry@email.com**  
+📧 **jeffryraymond2004@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 💻 [GitHub](https://github.com/yourusername)
 
