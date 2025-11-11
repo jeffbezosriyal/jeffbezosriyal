@@ -103,8 +103,8 @@ Structure isn’t limitation; it’s my process.
 
 ## 📊 GitHub Stats  
 
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffbezosriyal&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffbezosriyal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
 
 ---
 
