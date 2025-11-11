@@ -1,3 +1,4 @@
+cat > README.md << 'EOF'
 # 👋 Hey, Hi — I’m Jeff  
 
 **Computer Science Engineer | Full Stack & AI Developer | Design Technologist**  
@@ -59,9 +60,9 @@ My work focuses on scalable architecture, clean UI systems, and intelligent AI-d
 | Project | Description | Stack |
 |----------|--------------|--------|
 | **ArcPilot** | A modular dashboard system displaying API-driven analytics and metric visualization. Includes navigation drawer, dynamic graphs, and UI optimization for live updates. | Flutter, Dart, REST API |
-| **Chord** | A futuristic music app built in **Flutter**, featuring adaptive layouts and local file integration. | Flutter, Dart |
+| **Chord** | A futuristic music player built using **Flutter**, featuring theme-driven UI and adaptive layout. | Flutter, Dart |
 | **Health Chatbot** | AI-powered conversational system using **Flask**, **Meta LLaMA**, and **Pinecone** for contextual recall and response accuracy. | Python, Flask, LLaMA, Pinecone |
-| **Sign Language Interpreter** | ASL-to-English conversion app built in **Java + XML**, using camera input for gesture recognition. | Java, Android Studio |
+| **Sign Language Interpreter** | Android app converting sign gestures to text using **Java + XML**. | Java, Android Studio |
 | **Job Management API** | Backend API framework developed in **Flask** to handle modular task execution and scheduling. | Python, Flask |
 | **Zuuce Workshop** | Organized and led a workshop on design structure, branding logic, and SEO strategies. | Figma, Branding, SEO |
 
@@ -107,3 +108,4 @@ For me, clarity isn’t a preference; it’s a rule.
 > “Form without logic collapses.” — Jeff  
 > “Precision is not style — it’s a mindset.” — Jeff  
 > “Every system reflects its maker’s discipline.” — Jeff
+EOF
