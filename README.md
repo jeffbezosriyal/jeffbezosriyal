@@ -111,7 +111,7 @@ Structure isn’t limitation; it’s my process.
 ## 📫 Reach Me  
 
 📧 **jeffryraymond2004@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/jeffryraymond)  
+🔗 [LinkedIn](https://linkedin.com/in/jeffryraymond)  
 💻 [GitHub](https://github.com/jeffbezosriyal)
 
 ---
